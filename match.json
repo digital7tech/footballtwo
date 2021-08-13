@@ -1,1 +1,49 @@
 
+{  
+
+"hits" : [
+ {
+     "user" : "SOTUN SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "SPORTS ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    },
+
+
+ {
+     "user" : "SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : " SPORTS ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    },
+
+ {
+     "user" : " SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "SOFIA",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    },
+
+ {
+     "user" : "SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "SPORTS ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    },
+
+ {
+     "user" : "SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    },
+
+ {
+     "user" : "LIVE SPORTS",
+    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "type" : "LIVE SPORTS ⚽️ ",
+    "webFormatUrl" :"https://1000logos.net/wp-content/uploads/2018/10/CAF-logo.jpg"
+    }
+]
+
+}
