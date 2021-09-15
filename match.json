@@ -69,31 +69,52 @@
       {
 
 
-     "user" : "Club Brugge vs PSG SD  ",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "Europe - UEFA Champions League ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-    },
-       {
-
-
      "user" : "Club Brugge vs PSG HD  ",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
        {
 
 
-     "user" : "Liverpool vs Milan SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Club Brugge vs PSG SD  ",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen3/index.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
+       {
+
+
+     "user" : "Liverpool vs Milan HD1",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen2/tracks-v1a1/mono.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+{
+
+
+     "user" : "Liverpool vs Milan HD2",
+    "pageUrl" : "http://sptkid.gcdn.co/b8hd/tracks-v1a1/mono.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+{
+
+
+     "user" : "Liverpool vs Milan HD3",
+    "pageUrl" : "http://stbm.tk:8080/TringSport2HD/video.m3u8?token=test",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+
       {
 
 
-     "user" : "Liverpool vs Milan HD",
+     "user" : "Liverpool vs Milan SD",
     "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
@@ -117,48 +138,67 @@
        {
 
 
-     "user" : "Atlético Madrid vs Porto SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Atlético Madrid vs Porto HD",
+    "pageUrl" : "http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
      {
 
 
-     "user" : "Atlético Madrid vs Porto HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Atlético Madrid vs Porto SD",
+    "pageUrl" : "http://178.175.132.170:8888/02_sport2_480p/chunklist.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
       {
+
+
+     "user" : "Internazionale vs Real Madrid HD1",
+    "pageUrl" : "http://sptkid.gcdn.co/b9hd/tracks-v1a1/mono.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+     {
+
+
+     "user" : "Internazionale vs Real Madrid HD2",
+    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+   {
+
+
+     "user" : "Internazionale vs Real Madrid HD3",
+    "pageUrl" : "http://indo51.gcdn.co/SONYSIXindia/tracks-v1a1/mono.m3u8",
+    "type" : "Europe - UEFA Champions League ⚽️ ",
+    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
+    },
+
+
+   {
 
 
      "user" : "Internazionale vs Real Madrid SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+    "pageUrl" : "http://stbm.tk:8080/TringSport1HD/video.m3u8?token=test",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
-     {
 
-
-     "user" : "Internazionale vs Real Madrid HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
-    "type" : "Europe - UEFA Champions League ⚽️ ",
-    "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
-    },
       {
 
 
-     "user" : "Manchester City vs RB Leipzig SD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Manchester City vs RB Leipzig HD",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen1/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
      {
 
 
-     "user" : "Manchester City vs RB Leipzig HD",
-    "pageUrl" : "http://178.175.132.170:8888/02_SPORTTV_1_720p/chunklist.m3u8",
+     "user" : "Manchester City vs RB Leipzig SD",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen1/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Champions League ⚽️ ",
     "webFormatUrl" :"https://static.dw.com/image/16392542_303.jpg"
     },
