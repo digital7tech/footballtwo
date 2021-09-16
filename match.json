@@ -13,13 +13,13 @@
          
    {
      "user" : "Galatasaray vs Lazio",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy1.m3u8",
     "type" : "Europe - UEFA Europa League ⚽️ ",
     "webFormatUrl" :"https://1.bp.blogspot.com/-XWR04zWo52g/X0eLxfVfHLI/AAAAAAAAR_A/ImoU8jfaag4KuCO8fK6LXOwjiImi9inLACLcBGAsYHQ/s1600/UEFA%2BEuropa%2BLeague.png"
     },  
       {
      "user" : "Real Betis vs Celtic",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein3.m3u8",
     "type" : "Europe - UEFA Europa League ⚽️ ",
     "webFormatUrl" :"https://1.bp.blogspot.com/-XWR04zWo52g/X0eLxfVfHLI/AAAAAAAAR_A/ImoU8jfaag4KuCO8fK6LXOwjiImi9inLACLcBGAsYHQ/s1600/UEFA%2BEuropa%2BLeague.png"
     },  
@@ -30,8 +30,16 @@
     "webFormatUrl" :"https://1.bp.blogspot.com/-XWR04zWo52g/X0eLxfVfHLI/AAAAAAAAR_A/ImoU8jfaag4KuCO8fK6LXOwjiImi9inLACLcBGAsYHQ/s1600/UEFA%2BEuropa%2BLeague.png"
     },  
       {
-     "user" : "Dinamo Zagreb vs West Ham United",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Dinamo Zagreb vs West Ham United HD1",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein2.m3u8",
+    "type" : "Europe - UEFA Europa League ⚽️ ",
+    "webFormatUrl" :"https://1.bp.blogspot.com/-XWR04zWo52g/X0eLxfVfHLI/AAAAAAAAR_A/ImoU8jfaag4KuCO8fK6LXOwjiImi9inLACLcBGAsYHQ/s1600/UEFA%2BEuropa%2BLeague.png"
+    },  
+
+
+{
+     "user" : "Dinamo Zagreb vs West Ham United HD2",
+    "pageUrl" : "https://cdn.nowhdtime.com.bd/SonyTen2/tracks-v1a1/mono.m3u8",
     "type" : "Europe - UEFA Europa League ⚽️ ",
     "webFormatUrl" :"https://1.bp.blogspot.com/-XWR04zWo52g/X0eLxfVfHLI/AAAAAAAAR_A/ImoU8jfaag4KuCO8fK6LXOwjiImi9inLACLcBGAsYHQ/s1600/UEFA%2BEuropa%2BLeague.png"
     },  
