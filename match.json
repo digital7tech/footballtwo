@@ -31,37 +31,37 @@
           
       {
      "user" : "Newcastle United vs Leeds United  SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_480p/chunklist.m3u8",
     "type" : "England - Premier League  ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },   
        {
      "user" : "Newcastle United vs Leeds United  HD1",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD2_720p/chunklist.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },  
      {
      "user" : "Newcastle United vs Leeds United  HD2",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://mgzinminlwin.github.io/360p/pm-bein1.m3u8",
     "type" : "England - Premier League ⚽️",
     "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
     },  
       {
-     "user" : "Celta de Vigo vs Cádiz SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Celta de Vigo vs Cádiz HD",
+    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
        {
-     "user" : "Celta de Vigo vs Cádiz HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+     "user" : "Celta de Vigo vs Cádiz SD",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
      {
      "user" : "Portimonense vs Santa Clara HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
     "type" : "Portugal - Primeira Liga ⚽️",
     "webFormatUrl" :"https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
     },  
