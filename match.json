@@ -142,26 +142,26 @@
      
    {
      "user" : "Atlético Madrid vs Athletic Club SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
        {
      "user" : "Atlético Madrid vs Athletic Club HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://92.43.140.200/s81/04.m3u8",
     "type" : "Spain - La Liga ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
     },  
      
        {
      "user" : "Internazionale vs Bologna SD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
        {
      "user" : "Internazionale vs Bologna  HD",
-    "pageUrl" : "http://stream.tvtap.live:8081/live/ptvsports.stream/playlist.m3u8",
+    "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
     "type" : "Italy - Serie A  ⚽️",
     "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
     },   
