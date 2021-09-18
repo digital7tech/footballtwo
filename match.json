@@ -2,18 +2,7 @@
 
 "hits" : [
      
-      {
-     "user" : "Rayo Vallecano vs Getafe SD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/103.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
-       {
-     "user" : "Rayo Vallecano vs Getafe HD",
-    "pageUrl" : "http://92.43.140.204:80/s81/index.m3u8",
-    "type" : "Spain - La Liga ⚽️",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
-    },  
+       
         {
      "user" : "Genoa vs Fiorentina SD",
     "pageUrl" : "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
