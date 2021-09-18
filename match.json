@@ -5,43 +5,7 @@
        
         
       
-      {
-     "user" : "Bayern München vs Bochum SD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy3.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },   
-      {
-     "user" : "Bayern München vs Bochum  HD",
-    "pageUrl" : "http://92.43.140.200/s82/04.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },   
-      {
-     "user" : "Arminia Bielefeld vs Hoffenheim  HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/109.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },  
-      {
-     "user" : "Augsburg vs Borussia M'gladbach  HD",
-    "pageUrl" : "http://cdn.addressingethernet.xyz/hls/112.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },  
-      {
-     "user" : "Mainz 05 vs Freiburg  HD",
-    "pageUrl" : "https://chostv.mobie.in/choos/sports/matchqy2.m3u8",
-    "type" : "Germany - Bundesliga ⚽️ ",
-    "webFormatUrl" :"https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
-    },  
-
-        {
-     "user" : "Burnley vs Arsenal SD1",
-    "pageUrl" : "http://178.175.132.170:8888/02_PremierHD4_480p/chunklist.m3u8",
-    "type" : "England - Premier League  ⚽️",
-    "webFormatUrl" :"https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-    },   
+      
 
         {
      "user" : "Burnley vs Arsenal SD2",
