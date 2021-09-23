@@ -121,6 +121,43 @@
 			"pageUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+		{
+
+			"user": "Cádiz vs Barcelona SD",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/pm-bin1.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD1",
+			"pageUrl": "https://mgzinminlwin.github.io/720p/pm-Bein1.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD2",
+			"pageUrl": "http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2302.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Cádiz vs Barcelona HD3",
+			"pageUrl": "http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+		{
+
+			"user": "LIVE SPORTS",
+			"pageUrl": "http://221.120.204.4:80/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8",
+			"type": "LIVE SPORTS ⚽️ ",
+			"webFormatUrl": "https://image.shutterstock.com/image-illustration/live-streaming-sports-broadcast-soccer-260nw-716196589.jpg"
 		}
 
 
