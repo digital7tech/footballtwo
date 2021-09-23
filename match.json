@@ -15,7 +15,7 @@
    
  {
 			"user": "Torino vs Lazio SD",
-			"pageUrl": "http://stream.tvtap.live:8081/live/ptvsports.stream/playlst.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/105.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
@@ -36,7 +36,7 @@
 		{
 
 			"user": "Sampdoria vs Napoli SD",
-			"pageUrl": "http://203.159.95.172:8081/live/bein02/chunks.m3u8",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/104.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		},
