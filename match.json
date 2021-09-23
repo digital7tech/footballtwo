@@ -61,6 +61,38 @@
 			"pageUrl": "https://95-213-224-182.livesports24.online:443/mfootball2rus.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+
+{
+
+			"user": "Osasuna vs Real Betis SD",
+			"pageUrl": "http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Osasuna vs Real Betis HD",
+			"pageUrl": "http://ux38.gcdn.co/SSLaLiga/tracks-v1a1/mono.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+
+		{
+
+			"user": "Granada vs Real Sociedad SD",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/bein2.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+		{
+
+			"user": "Granada vs Real Sociedad HD",
+			"pageUrl": "https://mgzinminlwin.github.io/360p/bein2.m3u8",
+			"type": "Spain - La Liga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
 		}
 
 
