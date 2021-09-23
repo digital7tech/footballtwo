@@ -93,9 +93,35 @@
 			"pageUrl": "https://mgzinminlwin.github.io/360p/bein2.m3u8",
 			"type": "Spain - La Liga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LaLiga.svg/1456px-LaLiga.svg.png"
+		},
+
+
+
+		{
+			"user": "Roma vs Udinese SD",
+			"pageUrl": "http://cdn.addressingethernet.xyz/hls/105.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Roma vs Udinese HD1",
+			"pageUrl": "http://sptkid.gcdn.co/btsport1_b/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+		{
+			"user": "Roma vs Udinese HD2",
+			"pageUrl": "http://ux38.gcdn.co/SSVariety3/tracks-v1a1/mono.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
+		},
+
+{
+			"user": "Roma vs Udinese HD3",
+			"pageUrl": "https://185-107-80-245.livesports24.online:443/ntvmatchfoot1.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Serie_A_logo.png"
 		}
-
-
 
 
 
